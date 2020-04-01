@@ -1,2 +1,4 @@
-.ipynb_checkpoints
-LogisticRegression/.ipynb_checkpoints
+LogisticRegression/.ipynb_checkpoints/*.ipynb
+Linear Regression/.ipynb_checkpoints/*.ipynb
+IT1/.ipynb_checkpoints/*.ipynb
+IT2/.ipynb_checkpoints/*.ipynb
