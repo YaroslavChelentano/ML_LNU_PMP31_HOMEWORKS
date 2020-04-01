@@ -1,1 +1,2 @@
-LogisticRegression/.ipynb_checkpoints/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
